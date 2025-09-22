@@ -4,7 +4,7 @@
 
 A simple project to practice writing unit tests with Jest.
 
-Our first introduction to TDD (Test-Driven development).
+Our first introduction to TDD (Test-Driven Development).
 
 ## Overview
 
